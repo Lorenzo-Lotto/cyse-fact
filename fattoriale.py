@@ -1,0 +1,6 @@
+fattoriale = 5
+totale = 1
+for i in range(0,fattoriale):
+     totale *= (i+1)
+
+print(totale)
