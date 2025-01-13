@@ -1,4 +1,4 @@
-# Ciao fottiti nel titolo!
+# Ciao f*****i nel titolo!
 
 Cose scritte a caso
 ctrl+shift+v
